@@ -48,7 +48,11 @@ Technologies
 - NumPy
 - Matplotlib
 - Scikit-learn
+Supervisor
 
+- Dr. Syed Abbas Ali
+- NED University of Engineering & Technology
+- Department of Computer & Information Systems Engineering
 
 
 Author
@@ -62,3 +66,4 @@ Research Interests:
 - Computer Vision
 - Medical Image Analysis
 - Explainable AI
+  
