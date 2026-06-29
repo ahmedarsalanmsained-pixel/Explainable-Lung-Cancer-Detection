@@ -1,14 +1,9 @@
 torch
 torchvision
-torchaudio
+opencv-python
 numpy
 pandas
 matplotlib
-opencv-python
-scikit-learn
-scikit-image
 Pillow
-albumentations
-tqdm
+scikit-learn
 seaborn
-grad-cam  
